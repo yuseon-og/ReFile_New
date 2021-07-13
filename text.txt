@@ -1,0 +1,5 @@
+https://dev-yakuza.posstree.com/ko/react-native/install-on-windows/
+
+여기 참조해서 환경 셋팅할것
+
+안드로이드 스튜디오 설치할것
